@@ -1,6 +1,7 @@
 ### Hi There! 👋
 
-### This Is Prakhar Tripathi and I am Currently Pursuing My Bachelor's Degree in 'Computer Science and Engineering' From GLA University.
+### This Is Prakhar Tripathi and I am Currently Pursuing My Bachelor's Degree in
+'Computer Science and Engineering' From GLA University.
 
 ### I am Currently Learning and Working On:
 

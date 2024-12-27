@@ -34,7 +34,3 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** an
 
 ## 🌱 **Let’s Collaborate!**  
 I’m open to exciting opportunities and collaborations. Feel free to reach out if you have a project, internship, or full-time role that matches my skills and passion.  
-
----  
-
-Let me know if you'd like further changes!

@@ -1,7 +1,3 @@
-Here’s an updated version of your GitHub README that includes **all** the languages, frameworks, and tools mentioned in your resume:  
-
----
-
 # 👋 Hi there, I’m **Prakhar Tripathi**  
 
 Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** and a **B. Tech Computer Science** student at GLA University, Mathura. My focus lies in creating intuitive, user-centric applications using modern technologies, solving complex problems, and contributing to open-source projects.  
@@ -32,7 +28,6 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** an
 ### [**Riwayat**](https://github.com/imprakhartripathi/Riwayat-ByteWave)  
 **Tech Stack:** ASP.NET Core, Angular, MongoDB  
 - A full-stack application for event management and service booking.  
-- Features: Multi-service booking, trending services, admin dashboard, secure payments.  
 
 ---  
 

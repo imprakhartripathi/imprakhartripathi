@@ -54,11 +54,11 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** an
 
 ## 🛠 **Projects**  
 
-### 📌 [**Sahyogi**](https://github.com/imprakhartripathi/Sahyogi)  
-**Tech Stack:** Angular, Express JS, Node.js, MongoDB, AI-Powered Task & Project Management System 
+### 📌 [**Sahyogi**](https://github.com/imprakhartripathi/Sahyogi)  -  AI-Powered Task & Project Management System 
+**Tech Stack:** Angular, Express JS, Node.js, MongoDB
 - 🚀 A smart **AI-Powered Task & Project Management Tool** inspired by Jira with a little added twist of AI.
 
-### 📌 [**Riwayat**](https://github.com/imprakhartripathi/Riwayat)  
+### 📌 [**Riwayat**](https://github.com/imprakhartripathi/Riwayat)  - Event Services Booking & Planning App
 **Tech Stack:** Express JS, Angular, MongoDB  
 - 🎉 A full-stack **event management & service booking** application.
 

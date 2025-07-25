@@ -1,11 +1,12 @@
 # 👋 Hi there, I’m **Prakhar Tripathi**  
 
-Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** and a **B. Tech Computer Science** student at GLA University, Mathura. My focus lies in creating intuitive, user-centric applications using modern technologies, solving complex problems, and contributing to open-source projects.  
+Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** and a **B. Tech Computer Science** student at GLA University, Mathura. My focus lies in creating intuitive, user-centric applications using modern technologies, solving complex problems, and delivering production-ready solutions with clean, scalable code.  
 
 📧 **Email:** [imprakhartripathiofficial@gmail.com](mailto:imprakhartripathiofficial@gmail.com)  
-🌐 **Portfolio:** [Web Portfolio](https://imprakhartripathi.github.io/Portfolio/)  | [LinkedIn](https://www.linkedin.com/in/imprakhartripathi/)  
+🌐 **Portfolio:** [Web Portfolio](https://imprakhartripathi.github.io/Portfolio/)  
+🔗 **LinkedIn:** [Prakhar Tripathi](https://www.linkedin.com/in/imprakhartripathi/)  
 
----  
+---
 
 ## 💻 **Tech Stack**  
 
@@ -27,11 +28,13 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** an
 <p>
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white"/>
 </p>
 
 ### 🗄️ **Databases**  
@@ -45,25 +48,27 @@ Welcome to my GitHub profile! I’m a passionate **Full-Stack Web Developer** an
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/VS_Code_Insiders-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=limegreen"/> -->
+  <img src="https://img.shields.io/badge/VSCodium-%23007ACC.svg?style=for-the-badge&logo=vscodium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razorpay-%2300AFE1.svg?style=for-the-badge&logo=razorpay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/R_Studio-%2357A3CC.svg?style=for-the-badge&logo=rstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-%23FF9500.svg?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
 ---
 
-## 🛠 **Projects**  
-
-### 📌 [**Sahyogi**](https://github.com/imprakhartripathi/Sahyogi)  -  AI-Powered Task & Project Management System 
-**Tech Stack:** Angular, Express JS, Node.js, MongoDB
-- 🚀 A smart **AI-Powered Task & Project Management Tool** inspired by Jira with a little added twist of AI.
-
-### 📌 [**Riwayat**](https://github.com/imprakhartripathi/Riwayat)  - Event Services Booking & Planning App
-**Tech Stack:** Express JS, Angular, MongoDB  
-- 🎉 A full-stack **event management & service booking** application.
+## 🧭 **About Me**  
+- 🧠 I thrive in logic-driven environments where performance and polish matter equally.  
+- 🧩 Strong believer in modular, component-based architecture and clean state management.  
+- 🧰 Real-world experience in building complex apps with Razorpay, Docker, JWT based secure Authentication, Role-Based Access Control.  
+- 🎨 Also dabble in UI/UX occasionally — because good design isn't optional.  
+- 🎯 Always exploring better ways to bridge tech and usability.  
+- 💻 Deep understanding of **Linux/Windows workflows**, **dev environment customization**, and **API ecosystems**.  
 
 ---
 
-## 🌱 **Let’s Collaborate!**  
-I’m open to exciting opportunities and collaborations. Feel free to reach out if you have a **project, internship, or full-time role** that matches my skills and passion.  
-
+> _“Build software like you mean it. Maintain it like you love it.”_  

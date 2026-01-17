@@ -2,13 +2,10 @@
 
 Welcome to my GitHub profile! I’m a passionate Software Engineer, specializing in Full-Stack Development, and a B. Tech Computer Science student at GLA University, Mathura. My focus lies in creating intuitive, user-centric applications using modern technologies, solving complex problems, and delivering production-ready solutions with clean, scalable code. These days, I’m also trying my hand at publishing on the npm registry (got a few packages out there — contributions are always welcome 😅).
 
-📧 **Email:** [imprakhartripathiofficial@gmail.com](mailto:imprakhartripathiofficial@gmail.com)
-
-🌐 **Portfolio:** [Web Portfolio](https://imprakhartripathi.netlify.app)
-
-🔗 **LinkedIn:** [Prakhar Tripathi](https://www.linkedin.com/in/imprakhartripathi/)
-
-📦 **npm:** [My Packages](https://www.npmjs.com/~imprakhartripathi)
+[<img src="https://img.shields.io/badge/Email-dev%40imprakhartripathi.in-%23222222?style=for-the-badge&logo=maildotru&logoColor=white" />](mailto:dev@imprakhartripathi.in)
+[<img src="https://img.shields.io/badge/Portfolio-%23222222?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://imprakhartripathi.in)
+[<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/imprakhartripathi/)
+[<img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>](https://www.npmjs.com/~imprakhartripathi)
 
 ---
 
@@ -73,7 +70,7 @@ Welcome to my GitHub profile! I’m a passionate Software Engineer, specializing
 
 * 🧠 I thrive in logic-driven environments where performance and polish matter equally.
 * 🧩 Strong believer in modular, component-based architecture and clean state management.
-* 🧰 Real-world experience in building complex apps with Razorpay, Docker, JWT based secure Authentication, Role-Based Access Control.
+* 🧰 Real-world experience in building complex apps with Razorpay, Docker, JWT based secure Auth, RBAC.
 * 📦 Also exploring open-source by publishing my own npm packages.
 * 🎨 Occasionally dabble in UI/UX — because good design isn't optional.
 * 🎯 Always exploring better ways to bridge tech and usability.
@@ -81,5 +78,5 @@ Welcome to my GitHub profile! I’m a passionate Software Engineer, specializing
 
 ---
 
-> *“Build software like you mean it. Maintain it like you love it.”*
+> *“Build software like you mean it. Maintain it like you love it.” - idk Someone* 😅
 

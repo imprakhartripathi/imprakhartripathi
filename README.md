@@ -77,6 +77,47 @@ Welcome to my GitHub profile! I’m a passionate Software Engineer, specializing
 
 
 ---
+## 🚀 One Year, Countless Rewrites, One Framework
+### Meet My Latest Creation: Sculptor - The Rabbit Hole That Became a Framework 😅
+
+<table>
+<tr>
+<td width="30%" align="center">
+
+<a href="https://github.com/imprakhartripathi/Sculptor">
+  <img
+    src="https://raw.githubusercontent.com/imprakhartripathi/Sculptor/main/assets/sculptor-nobg.png"
+    alt="SculptorTS"
+    width="100%"
+  />
+</a>
+
+</td>
+
+<td width="70%">
+
+SculptorTS is an open-source, TypeScript-first backend framework that brings structure to Express without sacrificing flexibility.
+
+I created it after years of building APIs and searching for something that sat between the freedom of Express and the structure of enterprise frameworks.
+
+What started as a collection of npm packages, experiments, rewrites, and failed ideas eventually evolved into a complete framework focused on a simple goal:
+
+> **Provide structure without taking away control.**
+
+Today, SculptorTS supports package-first architecture, decorator and functional routing, explicit dependency injection, code generation, diagnostics, AI-aware tooling, and a modern TypeScript development experience.
+
+[<img src="https://img.shields.io/badge/Guide-%23222222?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://imprakhartripathi.in/contributions/sculptor-ts) [<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/imprakhartripathi/Sculptor) [<img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>](https://www.npmjs.com/org/sculptor)
+<br/>
+
+<b>Built With:</b> 
+<p> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/> </p>
+
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🧭 **About Me**
 

@@ -1,11 +1,57 @@
 # 👋 Hi there, I’m **Prakhar Tripathi**
 
-Welcome to my GitHub profile! I’m a passionate Software Engineer, specializing in Full-Stack Development, and a B. Tech Computer Science student at GLA University, Mathura. My focus lies in creating intuitive, user-centric applications using modern technologies, solving complex problems, and delivering production-ready solutions with clean, scalable code. These days, I’m also trying my hand at publishing on the npm registry (got a few packages out there — contributions are always welcome 😅).
+Welcome to my GitHub profile! I'm a Software Engineer focused on building scalable, production-ready applications and developer tooling. My work spans full-stack development, backend architecture, developer experience, and open-source software, with a strong emphasis on clean design, maintainability, and long-term reliability.
+
+In recent years, much of my focus has shifted toward open source, where I build and maintain tools, libraries, and frameworks designed to solve real-world engineering problems. From web applications and APIs to developer tooling published on npm, I enjoy creating software that developers can depend on and extend.
+
+I believe great software is more than just working code. It should be intuitive, performant, well-documented, and built to stand the test of time. Whether I'm contributing to open source, designing new developer experiences, or architecting production systems, my goal remains the same: build useful things and build them well.
+
 
 [<img src="https://img.shields.io/badge/Email-dev%40imprakhartripathi.in-%23222222?style=for-the-badge&logo=maildotru&logoColor=white" />](mailto:dev@imprakhartripathi.in)
 [<img src="https://img.shields.io/badge/Portfolio-%23222222?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://imprakhartripathi.in)
 [<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/imprakhartripathi/)
 [<img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>](https://www.npmjs.com/~imprakhartripathi)
+
+---
+## 🚀 One Year, Countless Rewrites, One Framework
+### Meet My Latest Creation: Sculptor - The Rabbit Hole That Became a Framework 😅
+
+<table>
+<tr>
+<td width="30%" align="center">
+
+<a href="https://github.com/imprakhartripathi/Sculptor">
+  <img
+    src="https://raw.githubusercontent.com/imprakhartripathi/Sculptor/main/assets/sculptor-nobg.png"
+    alt="SculptorTS"
+    width="100%"
+  />
+</a>
+
+</td>
+
+<td width="70%">
+
+SculptorTS is an open-source, TypeScript-first backend framework that brings structure to Express without sacrificing flexibility.
+
+I created it after years of building APIs and searching for something that sat between the freedom of Express and the structure of enterprise frameworks.
+
+What started as a collection of npm packages, experiments, rewrites, and failed ideas eventually evolved into a complete framework focused on a simple goal:
+
+> **Provide structure without taking away control.**
+
+Today, SculptorTS supports package-first architecture, decorator and functional routing, explicit dependency injection, code generation, diagnostics, AI-aware tooling, and a modern TypeScript development experience.
+
+[<img src="https://img.shields.io/badge/Guide-%23222222?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://imprakhartripathi.in/contributions/sculptor-ts) [<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/imprakhartripathi/Sculptor) [<img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>](https://www.npmjs.com/org/sculptor)
+<br/>
+
+<b>Built With:</b> 
+<p> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/> </p>
+
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,59 +123,16 @@ Welcome to my GitHub profile! I’m a passionate Software Engineer, specializing
 
 
 ---
-## 🚀 One Year, Countless Rewrites, One Framework
-### Meet My Latest Creation: Sculptor - The Rabbit Hole That Became a Framework 😅
 
-<table>
-<tr>
-<td width="30%" align="center">
+## 🧭 About Me
 
-<a href="https://github.com/imprakhartripathi/Sculptor">
-  <img
-    src="https://raw.githubusercontent.com/imprakhartripathi/Sculptor/main/assets/sculptor-nobg.png"
-    alt="SculptorTS"
-    width="100%"
-  />
-</a>
-
-</td>
-
-<td width="70%">
-
-SculptorTS is an open-source, TypeScript-first backend framework that brings structure to Express without sacrificing flexibility.
-
-I created it after years of building APIs and searching for something that sat between the freedom of Express and the structure of enterprise frameworks.
-
-What started as a collection of npm packages, experiments, rewrites, and failed ideas eventually evolved into a complete framework focused on a simple goal:
-
-> **Provide structure without taking away control.**
-
-Today, SculptorTS supports package-first architecture, decorator and functional routing, explicit dependency injection, code generation, diagnostics, AI-aware tooling, and a modern TypeScript development experience.
-
-[<img src="https://img.shields.io/badge/Guide-%23222222?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://imprakhartripathi.in/contributions/sculptor-ts) [<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/imprakhartripathi/Sculptor) [<img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>](https://www.npmjs.com/org/sculptor)
-<br/>
-
-<b>Built With:</b> 
-<p> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/> </p>
+* 🏗️ I enjoy building software that balances simplicity, maintainability, and long-term scalability.
+* ⚙️ Most of my work revolves around backend systems, full-stack applications, developer tooling, and open-source infrastructure.
+* 📦 I actively contribute to the JavaScript and TypeScript ecosystem through libraries, frameworks, and npm packages.
+* 📖 I value clear documentation, thoughtful APIs, and developer experiences that reduce friction rather than add abstraction.
+* 🎯 My engineering approach favors pragmatic solutions, strong fundamentals, and architecture that can evolve alongside a product.
+* 🌍 I spend a significant amount of time exploring new technologies, refining workflows, and improving the tools developers use every day.
 
 
-</td>
-</tr>
-</table>
-
----
-
-## 🧭 **About Me**
-
-* 🧠 I thrive in logic-driven environments where performance and polish matter equally.
-* 🧩 Strong believer in modular, component-based architecture and clean state management.
-* 🧰 Hands-on experience building production-grade applications with Razorpay integrations, Dockerized deployments, multi-layer JWT-based authentication, and RBAC.
-* 📦 Also exploring open-source by publishing my own npm packages.
-* 🎨 Occasionally dabble in UI/UX — because good design isn't optional.
-* 🎯 Constantly exploring better ways to bridge technical depth with real-world usability.
-* 💻 Deep understanding of Linux, Windows, and macOS workflows, development environment customization, and API ecosystems.
-
----
-
-> *“Build software like you mean it. Maintain it like you love it.” - idk Someone* 😅
+> *I build tools, libraries, and frameworks that help developers move faster without sacrificing maintainability.*
 

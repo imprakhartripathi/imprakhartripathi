@@ -42,7 +42,8 @@ What started as a collection of npm packages, experiments, rewrites, and failed 
 
 Today, SculptorTS supports package-first architecture, decorator and functional routing, explicit dependency injection, code generation, diagnostics, AI-aware tooling, and a modern TypeScript development experience.
 
-[<img src="https://img.shields.io/badge/Guide-%23222222?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://imprakhartripathi.in/contributions/sculptor-ts) [<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/imprakhartripathi/Sculptor) [<img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>](https://www.npmjs.com/org/sculptor)
+[<img src="https://img.shields.io/badge/Guide-%23222222?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://imprakhartripathi.in/contributions/sculptor-ts) [<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/imprakhartripathi/Sculptor) [<img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>](https://www.npmjs.com/org/sculptor)   [<img src="https://img.shields.io/npm/d18m/%40sculptor%2Fcli?style=for-the-badge&logo=npm&label=Downloads&labelColor=1e1e2e&color=4F46E5" />](https://www.npmjs.com/org/sculptor)
+
 <br/>
 
 <b>Built With:</b> 
